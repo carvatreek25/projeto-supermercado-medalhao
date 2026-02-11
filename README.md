@@ -8,7 +8,7 @@
 O projeto utiliza a **Medallion Architecture**, organizando os dados em diferentes estágios de maturidade para garantir a integridade e facilitar a análise de negócio.
 
 <p align="center">
-  <img src="imagens/arquitetura.png" alt="Arquitetura do Projeto" width="850">
+  <img src="imagens/arquitetura_dados.png" alt="Arquitetura do Projeto" width="850">
 </p>
 
 ---
