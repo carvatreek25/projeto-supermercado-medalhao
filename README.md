@@ -28,7 +28,7 @@ O foco deste projeto é transformar dados transacionais brutos em uma base de da
 Após o processamento das camadas, os dados da camada **Gold** foram utilizados para alimentar este Dashboard, permitindo uma visão 360º da operação:
 
 <p align="center">
-  <img src="imagens/dashboard.png" alt="Dashboard de Vendas" width="850">
+  <img src="imagens/Dashboard.png" alt="Dashboard de Vendas" width="850">
 </p>
 
 ---
